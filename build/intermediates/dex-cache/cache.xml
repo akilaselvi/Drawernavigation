@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_6d59999e3308ccf858f68bd352789c0d1c47dc13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_91e6e2e0240532ea83ef5258cd754267143e7fb3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="df262060eb77bae89870827cbff829abe323a01e">
+        <dex dex="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_1c1504cd91b1c89414cd17d84bac0db8b8b47d22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akila/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_c3ebeda447d0a4d4dc02ff63032c3a80f61ef685/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_2736d904dd5494144e7ee19f36806970b15d7101/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_ee20721410307fff06910223e930b6fb87424668/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2d5658955f8e1c4fd26f244d411586edef32494b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_5d2ea25dba44ee15e371c3393dc9fd6f00eeebb9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_6fcf36076a013530da4731ee319613bbb1e34363/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_8c78ac313f85cd5bfdb0ff5aaf36c366d4134dad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_061df516b26fcf467e4570d59e5760adda6c8caf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_2f4105143f0aed83ea727190fea311b998c8b3fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_b3fe69e4e9db5312f1b58e7706e6711b3c9909f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_5e2e1485ac4f4fb59cfcf32c29e7295d96b705fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_3c360a638df3a773a20e7fee3061960f99cdf3b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1a8229888d5d0b69d1dbbbb55eaca755d396b4ea">
+        <dex dex="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ebcdfb12b1418875897b73d9e5e1ceba1f1df079/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_0cfa9411f9d64d3f72d81e65d08260f1b5229ea6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_4515a5d360ccb7dd76bb608ee96301152b0edfe1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/akila/Downloads/DrwaerNavigate/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_76ff3fd822e137acdad812f145d2efa386b78ada/classes.dex" />
+    </item>
+
+</items>
